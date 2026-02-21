@@ -1,0 +1,10 @@
+{
+  "vf-admin-mobile": {
+    "minVersion": "1.5.3",
+    "message": "A critical update is required. Please update to continue using the app."
+  },
+  "vf-customer-mobile": {
+    "minVersion": "1.0.3",
+    "message": "A critical update is required. Please update to continue using the app."
+  }
+}
