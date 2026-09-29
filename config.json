@@ -1,7 +1,7 @@
 {
   "vf-admin-mobile": {
-    "minVersion": "1.5.55",
-    "latestVersion": "1.5.58",
+    "minVersion": "1.5.59",
+    "latestVersion": "1.5.59",
     "message": "A critical update is required. Please update to continue using the app."
   },
   "vf-customer-mobile": {
